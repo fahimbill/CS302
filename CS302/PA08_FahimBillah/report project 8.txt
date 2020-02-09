@@ -1,0 +1,9 @@
+﻿Edge:                         Weight
+Vertex 0 - Vertex 1         4 
+Vertex 3 - Vertex 2         2 
+Vertex 0 - Vertex 3         1 
+Vertex 1 - Vertex 4         4 
+Vertex 4 - Vertex 5         3 
+
+
+The result of the algorithm is the mst because the algorithm compares all the distances at a vertex with the vertices around it, compares the values to find the shortest, then makes one path that connects all the vertices.

@@ -1,0 +1,3 @@
+g++ -o proj7 proj7.cpp
+
+./proj7

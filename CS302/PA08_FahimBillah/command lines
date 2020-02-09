@@ -1,0 +1,3 @@
+g++ -o proj8 proj8.cpp
+
+./proj8
